@@ -4,6 +4,7 @@
 #Github: https://github.com/aymenkouah
 #Requires installing "pygame" 
 #https:\\pygame.org
+#Open the read_me file for more info about the game and the playing method
 
 import pygame
 import time
