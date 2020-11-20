@@ -227,7 +227,7 @@ while running == True :
 
     running = not game_over(dropped)
     
-    screen.fill((255, 5 , 125))
+    screen.fill((0, 5 , 125))
     
     rotate = 0
     
